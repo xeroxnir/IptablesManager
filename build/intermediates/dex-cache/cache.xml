@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jrinaudo/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/media/veracrypt1/proyecto_movil_v2/iptables/IptablesManager/app/build/intermediates/pre-dexed/debug/glide-3.6.0-094745f9612bfa927b20ed7d3b8cbd5533f8d40c.jar" />
+    </item>
+    <item
+        jar="/media/veracrypt1/proyecto_movil_v2/iptables/IptablesManager/app/build/intermediates/exploded-aar/IptablesManager/codingbad_lib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e9a80efc9a50ba19246f974a8d8aa90c2562fdc">
+        <dex dex="/media/veracrypt1/proyecto_movil_v2/iptables/IptablesManager/app/build/intermediates/pre-dexed/debug/classes-72d5e2ea961aa6c3498f0bf90151e23c838d322b.jar" />
+    </item>
+    <item
+        jar="/media/veracrypt1/proyecto_movil_v2/iptables/IptablesManager/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/media/veracrypt1/proyecto_movil_v2/iptables/IptablesManager/app/build/intermediates/pre-dexed/debug/classes-07fbef068303980d5069fb1744255a899e564198.jar" />
+    </item>
+    <item
+        jar="/media/veracrypt1/proyecto_movil_v2/iptables/IptablesManager/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="/media/veracrypt1/proyecto_movil_v2/iptables/IptablesManager/app/build/intermediates/pre-dexed/debug/classes-52b910f0624820df8e0fc835e91231a87bddb2b1.jar" />
+    </item>
+    <item
+        jar="/home/jrinaudo/Desktop/Android/androidSDK/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/media/veracrypt1/proyecto_movil_v2/iptables/IptablesManager/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-6b94b4908b5503734ffce60f7f6f1b04633a6954.jar" />
+    </item>
+    <item
+        jar="/media/veracrypt1/proyecto_movil_v2/iptables/IptablesManager/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/media/veracrypt1/proyecto_movil_v2/iptables/IptablesManager/app/build/intermediates/pre-dexed/debug/classes-3fad93fa827cea454dd1e7678f54193e53386dec.jar" />
+    </item>
+    <item
+        jar="/media/veracrypt1/proyecto_movil_v2/iptables/IptablesManager/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="/media/veracrypt1/proyecto_movil_v2/iptables/IptablesManager/app/build/intermediates/pre-dexed/debug/classes-477c1a1c34c0e0a8e29b30af57c6b223cffe2a11.jar" />
+    </item>
+    <item
+        jar="/media/veracrypt1/proyecto_movil_v2/iptables/IptablesManager/app/build/intermediates/exploded-aar/jp.wasabeef/recyclerview-animators/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="55b967d31b15d92052a5ea2e407378b72d4764a7">
+        <dex dex="/media/veracrypt1/proyecto_movil_v2/iptables/IptablesManager/app/build/intermediates/pre-dexed/debug/classes-ec5946ffd899dbf3d62e71aaf528b6be432c4a0d.jar" />
+    </item>
+    <item
+        jar="/media/veracrypt1/proyecto_movil_v2/iptables/IptablesManager/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/media/veracrypt1/proyecto_movil_v2/iptables/IptablesManager/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-35489529c7e35432316ab2b341294d8268c12378.jar" />
+    </item>
+    <item
+        jar="/home/jrinaudo/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/media/veracrypt1/proyecto_movil_v2/iptables/IptablesManager/app/build/intermediates/pre-dexed/debug/jsr305-1.3.9-abe1c0569ef88fcf96ea5f940568921d44b6cc5e.jar" />
+    </item>
+    <item
+        jar="/home/jrinaudo/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/1.7.2/112366d8158749e25532ebce162232c6e0fb20a5/gson-1.7.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="112366d8158749e25532ebce162232c6e0fb20a5">
+        <dex dex="/media/veracrypt1/proyecto_movil_v2/iptables/IptablesManager/app/build/intermediates/pre-dexed/debug/gson-1.7.2-432e67f8033584edd35247800b552acd9fd7b2de.jar" />
+    </item>
+    <item
+        jar="/media/veracrypt1/proyecto_movil_v2/iptables/IptablesManager/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/media/veracrypt1/proyecto_movil_v2/iptables/IptablesManager/app/build/intermediates/pre-dexed/debug/classes-d255a27ad4a8287d9329bffd3062c624e99b3062.jar" />
+    </item>
+    <item
+        jar="/home/jrinaudo/.gradle/caches/modules-2/files-2.1/org.roboguice/roboguice/3.0.1/24e814f35d5cc28eaa7e9f07a50ea69deeb2b544/roboguice-3.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="24e814f35d5cc28eaa7e9f07a50ea69deeb2b544">
+        <dex dex="/media/veracrypt1/proyecto_movil_v2/iptables/IptablesManager/app/build/intermediates/pre-dexed/debug/roboguice-3.0.1-83d1780eb8ccfb57ba3825f92a15d0c55664910a.jar" />
+    </item>
+
+</items>

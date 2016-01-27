@@ -1,0 +1,8 @@
+<resources>
+    <!-- you can customize material_toolbar and material_toolbar_popup here -->
+    <style name="material_toolbar">
+        <item name="android:background">?attr/colorPrimary</item>
+        <item name="colorControlNormal">@color/icons</item>
+        <item name="android:textColorPrimary">@color/icons</item>
+    </style>
+</resources>

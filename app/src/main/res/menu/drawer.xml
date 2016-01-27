@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/action_main"
+            android:checked="true"
+            android:icon="@drawable/ic_thumbnail"
+            android:title="@string/main"/>
+        <item
+            android:id="@+id/action_howto"
+            android:checked="false"
+            android:icon="@drawable/ic_action_action_help"
+            android:title="@string/howto"/>
+        <item
+            android:id="@+id/action_rate_me"
+            android:checked="false"
+            android:icon="@drawable/ic_action_action_grade"
+            android:title="@string/rate_me"
+            />
+        <item
+            android:id="@+id/action_about"
+            android:checked="false"
+            android:icon="@drawable/ic_action_action_info_outline"
+            android:title="@string/about"/>
+    </group>
+</menu>

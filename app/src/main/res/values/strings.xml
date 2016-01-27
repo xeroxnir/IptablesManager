@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Iptables Manager</string>
+
+    <string name="description">Description</string>
+    <string name="apply">Apply</string>
+    <string name="about">About Us</string>
+    <string name="dev1">Joaquín Rinaudo</string>
+    <string name="dev1email">jmrinaudo@gmail.com</string>
+
+    <string name="header">Iptables Manager</string>
+    <string name="howto">How To</string>
+    <string name="main">Main</string>
+    <string name="equal">=</string>
+    <string name="use_as_vpn">Use as VPN client</string>
+    <string name="through_vpn">Let through</string>
+    <string name="block">Block</string>
+    <string name="avoid_description">Use the selected application as the VPN client.</string>
+    <string name="through_description">Application will use networking.</string>
+    <string name="block_description">Application\'s outgoing packets will be dropped.</string>
+    <string name="noroot">Sorry, but you don\'t have root access.</string>
+    <string name="developers">Developers:</string>
+    <string name="rate_me">Rate me</string>
+    <string name="search">Search</string>
+    <string name="thanks">Thanks! ;)</string>
+</resources>
